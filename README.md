@@ -213,3 +213,8 @@ Strauch, R., Istanbulluoglu, E., Nudurupati, S., Bandaragoda, C., Gasparini, N.,
 (2018). A hydroclimatological approach to predicting regional landslide probability using
 Landlab. *Earth Surface Dynamics*, 6(1), 49–75. https://doi.org/10.5194/esurf-6-49-2018
 
+---
+
+## Funding
+
+This study was supported by the NASA Disasters (80NSSC23K1103) and Earth Surface Interior Programs ( 80NSSC25K7863). 
