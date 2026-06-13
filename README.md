@@ -196,14 +196,11 @@ pip install landlab numpy jupyter
 
 All raster inputs and outputs are ESRI ASCII grids (.asc) in geographic coordinates
 (EPSG:32637) unless otherwise noted. The Landlab model grid is constructed at 90 m
-resolution. The co-seismic landslide inventory point shapefile used for validation is
-in EPSG:4326, reprojected to EPSG:32637 (UTM Zone 37N) for comparison with model outputs.
+resolution.
 
 ---
 
 ## References
-
-Görüm, T., Tanyas, H., Karabacak, F., Yılmaz, A., Girgin, S., Allstadt, K. E., et al. (2023). Preliminary documentation of coseismic ground failure triggered by the February 6, 2023 Türkiye earthquake sequence. Engineering Geology, 327, 107315. https://doi.org/https://doi.org/10.1016/j.enggeo.2023.107315
 
 Hobley, D. E. J., Adams, J. M., Siddhartha Nudurupati, S., Hutton, E. W. H., Gasparini, N. M., Istanbulluoglu, E., & Tucker, G. E. (2017). Creative computing with Landlab: An open-source toolkit for building, coupling, and exploring two-dimensional numerical models of Earth-surface dynamics. Earth Surface Dynamics, 5(1). https://doi.org/10.5194/esurf-5-21-2017
 
