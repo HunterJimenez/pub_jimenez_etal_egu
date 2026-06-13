@@ -1,4 +1,4 @@
-# Modeling the Combined Effects of the 2023 Türkiye-Syria Earthquake and an Atmospheric River Event on Landslide Hazard — Data and Code Repository
+# Modeling the Combined Effects of the 2023 Türkiye-Syria Earthquake and an Atmospheric River Event on Landslide Hazard - Data and Code Repository
 
 ## Overview
 
