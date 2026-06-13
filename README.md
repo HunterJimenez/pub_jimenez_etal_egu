@@ -112,6 +112,8 @@ All components extend the Landlab `LandslideProbability` framework.
 
 ## Data (`Data/`)
 
+Due to file size restrictions on GitHub, the contents of the Data/ folder are not hosted in this repository. All input and output data are archived on Zenodo and can be downloaded at: [INSERT ZENODO LINK]. Please download and place the data into the Data/ folder following the structure described below before running the notebooks.
+
 ### `Data/soilmoisture_input/` — Soil Moisture Model Inputs
 
 | File | Description | Source |
